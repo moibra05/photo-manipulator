@@ -1,5 +1,3 @@
-# Mohamed
-
 import PIL, math
 from PIL import Image
 
